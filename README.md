@@ -31,7 +31,7 @@
 
 ## 🔹 Connect with Me
 - 🌐 LinkedIn: [linkedin.com/in/yourprofile](#)  
-- 📧 Email: your.email@example.com  
+- 📧 Email: essamali77928@gmail.com  
 - 💻 GitHub: [github.com/yourusername](#)  
 
 ---
