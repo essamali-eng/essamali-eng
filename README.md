@@ -32,7 +32,7 @@
 ## 🔹 Connect with Me
   
 - 📧 Email: essamali77928@gmail.com  
-- 💻 GitHub: [github.com/yourusername](#)  
+- 💻 GitHub: [github.com/essamali-eng](#)  
 
 ---
 ⭐️ *Feel free to check out my repositories and collaborate!*
