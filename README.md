@@ -30,7 +30,7 @@
 ---
 
 ## 🔹 Connect with Me
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](#)  
+  
 - 📧 Email: essamali77928@gmail.com  
 - 💻 GitHub: [github.com/yourusername](#)  
 
