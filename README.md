@@ -4,15 +4,15 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 I’m pursuing a **Bachelor's Artificial Intelligence**  
-- 💻 I have experience with **C++**, **HTML**, and **CSS**  
-- 🤖 I’m deeply interested in **Software Development** and **Deep Learning**  
-- 📫 You can reach me at **essamali77928@gmail.com**  
+### About Me
+-  I’m pursuing a **Bachelor's Artificial Intelligence**  
+- I have experience with **C++**, **HTML**, and **CSS**  
+-  I’m deeply interested in **Software Development** and **Deep Learning**  
+- You can reach me at **essamali77928@gmail.com**  
 
 ---
 
-### 🚀 Projects
+### Projects
 #### 📚 Library Management System
 A simple project to manage library books, users, and borrowing processes efficiently.  
 *(Available in my repositories!)*
@@ -26,7 +26,7 @@ A simple project to manage library books, users, and borrowing processes efficie
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
