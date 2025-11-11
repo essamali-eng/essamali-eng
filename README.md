@@ -21,7 +21,7 @@ A simple project to manage library books, users, and borrowing processes efficie
 
 ### 🌱 Currently Learning
 - Deep Learning frameworks (TensorFlow, PyTorch)  
-- Python for AI applications  
+  -  AI applications  
 - Modern Web Technologies  
 
 ---
