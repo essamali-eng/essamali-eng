@@ -1,38 +1,68 @@
-# 👋 Hi, I'm Essam Ali
-
-🎓 Bachelor's Student in Artificial Intelligence  
-💻 C++ & Python Developer  
-🤖 Interested in Machine Learning and Deep Learning  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Essam Ali</h1>
+<h3 align="center">Bachelor's student in Artificial Intelligence | Passionate about Software Development & Deep Learning</h3>
 
 ---
 
-## 🔹 About Me
-- Passionate about Artificial Intelligence and software development.  
-- Strong foundation in C++ programming and data structures.  
-- Exploring Python for Machine Learning and AI projects.  
-- Always eager to learn new technologies and contribute to open-source projects.  
+### 🧠 About Me
+- 🎓 I’m pursuing a **Bachelor's degree in Artificial Intelligence**  
+- 💻 I have experience with **C++**, **HTML**, and **CSS**  
+- 🤖 I’m deeply interested in **Software Development** and **Deep Learning**  
+- 📫 You can reach me at **essamali77928@gmail.com**  
 
 ---
 
-## 🔹 Skills
-- **Programming Languages:** C++, Python  
-- **AI & Data Science:** NumPy, Pandas, TensorFlow, PyTorch  
-- **Other Tools:** Git, Linux, Jupyter Notebook  
+### 🚀 Projects
+#### 📚 Library Management System
+A simple project to manage library books, users, and borrowing processes efficiently.  
+*(Available in my repositories!)*
 
 ---
 
-## 🔹 Featured Projects
-- 🏫 [Student Management System in C++](#)  
-- 🏦 [Banking System (C++)](#)  
-- 📊 [House Price Prediction using Regression (Python)](#)  
-- 🐱🐶 [Image Classifier: Cats vs Dogs (Deep Learning)](#)  
+### 🌱 Currently Learning
+- Deep Learning frameworks (TensorFlow, PyTorch)  
+- Python for AI applications  
+- Modern Web Technologies  
 
 ---
 
-## 🔹 Connect with Me
-  
-- 📧 Email: essamali77928@gmail.com  
-- 💻 GitHub: [github.com/essamali-eng](#)  
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
 ---
-⭐️ *Feel free to check out my repositories and collaborate!*
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=essamali-eng&show_icons=true&theme=tokyonight" alt="Essam Ali GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=essamali-eng&theme=tokyonight" alt="Essam Ali GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essamali-eng&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="mailto:essamali77928@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-essamali77928@gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/essamali-eng" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-essamali--eng-black?style=flat-square&logo=github">
+  </a>
+</p>
+
+---
+
+⭐ *“Code is like art — the more you practice, the better it becomes.”*
