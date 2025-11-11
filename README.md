@@ -6,7 +6,7 @@
 
 ### About Me
 -  I’m pursuing a **Bachelor's Artificial Intelligence**  
-- I have experience with **C++**, **HTML**, and **CSS**  
+- I have skill with **C++**, **HTML**, and **CSS**  
 -  I’m deeply interested in **Software Development** and **Deep Learning**  
 - You can reach me at **essamali77928@gmail.com**  
 
