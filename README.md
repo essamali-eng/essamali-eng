@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Essam Ali</h1>
+<h1 align="center">Hi 👋, I'm Essam Alozaib</h1>
 <h3 align="center">Bachelor's student in Artificial Intelligence | Passionate about Software Development & Deep Learning</h3>
 
 ---
