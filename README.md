@@ -1,11 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Essam Alozaib</h1>
-<h3 align="center">Bachelor's student in Artificial Intelligence | Passionate about Software Development & Deep Learning</h3>
+<h3 align="center"> Passionate about Software Development & Deep Learning</h3>
 
 ---
 
-### About Me
--  I’m studing a **Bachelor's Artificial Intelligence**  
+### About Me  
 - I have skill with **C++**, **HTML**, and **CSS**  
 -  I’m deeply interested in **Software Development** and **Deep Learning**  
 - You can reach me at **essamali77928@gmail.com**  
